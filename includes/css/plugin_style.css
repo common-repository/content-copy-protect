@@ -1,0 +1,22 @@
+.mybox {
+	
+	background-color:#F1F3F4;
+	width:70%;
+	max-width:400px; 
+	min-width:10px; 
+	height:auto !important;
+	font-size: 0.2 em;
+	padding: 5%;
+	}
+	
+.mybox a,.mybox img { 
+	
+	display:none !important;
+	
+	}
+	
+.window {
+	background-color:black;
+	color:white;	
+}
+	
